@@ -5,5 +5,7 @@ JS
 - [jsonp跨域问题](./JS/jsonp.md)
 - [模块化加载](./JS/module_loader.md)
 - [call、apply、bind](./JS/call_apply_bind.md)
+
 Browser
 - [浏览器输入URL到页面的展现](./Browser/url_performance.md)
+- [console的调试](./Browser/console_for_fun.md)
