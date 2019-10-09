@@ -5,6 +5,7 @@ JS
 - [jsonp跨域问题](./JS/jsonp.md)
 - [模块化加载](./JS/module_loader.md)
 - [call、apply、bind](./JS/call_apply_bind.md)
+- [函数防抖和节流](./JS/debounce_throttle.md)
 
 Browser
 - [浏览器输入URL到页面的展现](./Browser/url_performance.md)
@@ -17,3 +18,4 @@ Browser
 - [https://muyiy.cn/question/](https://muyiy.cn/question/)
 - [https://github.com/0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)
 - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [https://juejin.im/post/5d9c2005f265da5bb977c55e](https://juejin.im/post/5d9c2005f265da5bb977c55e)
