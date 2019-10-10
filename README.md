@@ -10,6 +10,7 @@ JS
 Browser
 - [浏览器输入URL到页面的展现](./Browser/url_performance.md)
 - [console的调试](./Browser/console_for_fun.md)
+- [浏览器缓存机制](./Browser/browser_cache.md)
 
 性能优化
 - [首屏和白屏时间](./Optimize/first_page.md)
